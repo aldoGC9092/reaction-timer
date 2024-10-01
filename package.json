@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "heroku": "^8.7.1",
+    "serve": "^14.2.3",
     "vue": "^3.0.0-0"
   },
   "devDependencies": {
